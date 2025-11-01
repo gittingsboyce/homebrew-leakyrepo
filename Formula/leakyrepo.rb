@@ -5,8 +5,8 @@
 class Leakyrepo < Formula
   desc "Secrets detection tool that catches API keys and tokens before commit"
   homepage "https://github.com/gittingsboyce/leakyrepo"
-  url "https://github.com/gittingsboyce/leakyrepo/archive/v1.0.0.tar.gz"
-  sha256 "4698027617a50a4abcdf096ad9b6d3477ac7b910fc04939ba1eeca7a423e03b9"
+  url "https://github.com/gittingsboyce/leakyrepo/archive/v1.1.0.tar.gz"
+  sha256 "aa11a80f6185d85f0d483e0741e72addda2dd4c757d5a6e7fdceaa06722519c4"
   license "MIT"
   head "https://github.com/gittingsboyce/leakyrepo.git", branch: "main"
 
